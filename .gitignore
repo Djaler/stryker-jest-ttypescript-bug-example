@@ -1,0 +1,4 @@
+.idea/
+.directory
+.stryker-tmp/
+node_modules/
